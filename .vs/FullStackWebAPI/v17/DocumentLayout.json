@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|c:\\users\\cedri\\desktop\\oldapp\\fullstackwebapi\\fullstackwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|solutionrelative:fullstackwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|c:\\users\\cedri\\desktop\\oldapp\\fullstackwebapi\\fullstackwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|solutionrelative:fullstackwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|c:\\users\\cedri\\desktop\\oldapp\\fullstackwebapi\\fullstackwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|solutionrelative:fullstackwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|c:\\users\\cedri\\desktop\\oldapp\\fullstackwebapi\\fullstackwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|solutionrelative:fullstackwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|c:\\users\\cedri\\desktop\\oldapp\\fullstackwebapi\\fullstackwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|solutionrelative:fullstackwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|c:\\users\\cedri\\desktop\\oldapp\\fullstackwebapi\\fullstackwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|solutionrelative:fullstackwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|c:\\users\\cedri\\desktop\\oldapp\\fullstackwebapi\\fullstackwebapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|solutionrelative:fullstackwebapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|c:\\users\\cedri\\desktop\\oldapp\\fullstackwebapi\\fullstackwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA197083-8DDE-494D-9B76-CDC91C35D2E2}|FullStackWebAPI\\FullStackWebAPI.csproj|solutionrelative:fullstackwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FullStackWebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "FullStackWebAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-15T15:57:45.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "FullStackWebAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "FullStackWebAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAcwCkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T15:57:46.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "FullStackWebAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "FullStackWebAPI\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAqwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T15:57:46.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FullStackWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\appsettings.json",
+              "RelativeToolTip": "FullStackWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-15T15:57:46.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "FullStackWebAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "FullStackWebAPI\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T15:57:46.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "FullStackWebAPI\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\Models\\Department.cs",
+              "RelativeToolTip": "FullStackWebAPI\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T15:57:46.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FullStackWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\Program.cs",
+              "RelativeToolTip": "FullStackWebAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T15:57:46.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "FullStackWebAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\cedri\\Desktop\\OldApp\\FullStackWebAPI\\FullStackWebAPI\\Startup.cs",
+              "RelativeToolTip": "FullStackWebAPI\\Startup.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwDUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T15:57:46.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
